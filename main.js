@@ -3,12 +3,12 @@
 // ==========================================
 
 const daftarVideo = [
-    "https://cdn2.videy.co/ZwdCN9621.mp4",
-    "https://cdn2.videy.co/VNDBFNBT1.mp4",
-    "https://cdn2.videy.co/lZBK9W3A1.mp4",
-    "https://cdn2.videy.co/pFDi1M5m1.mp4",
-    "https://cdn2.videy.co/BjVsmoPs1.mp4",
-    "https://cdn.videy.co/8cWz7SRK1.mp4",
+    "https://cdn.aaceimg.com/videos/c8j9rvvlym1c.mp4",
+    "https://cdn2.slicadrivee.fun/videos/55j4OrnXe.mp4",
+    "https://cdn.slicadrive.fun/videos/DQpIh6L7Q.mp4",
+    "https://cdn.aceimmg.com/yvamn9iq0yfc.mp4",
+    "https://cdn2.slicadrivee.fun/videos/qxUNpfcg6.mp4",
+    "https://cdn2.slicedrivp.com/videos/57v2c3wwv2um.mp4",
     "https://cdn2.videy.co/AAovM0bj1.mp4",
     "https://cdn2.videy.co/CU550Zof1.mp4",
     "https://cdn2.videy.co/mRZ1Lm0Y1.mp4",
@@ -72,7 +72,7 @@ if (video) {
         setTimeout(() => {
 
             window.open(
-                "https://rm358.com/4/12160277",
+                "https://s.shopee.co.id/W8OcYn0Td",
                 "_blank"
             );
 
@@ -116,7 +116,7 @@ if (video) {
 
         // Klik / tap apa pun → Shopee
         window.open(
-            "https://s.shopee.co.id/7VHeXOiJoQ",
+            "https://s.shopee.co.id/W8OcYn0Td",
             "_blank"
         );
 
